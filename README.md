@@ -31,12 +31,12 @@ MySQL
 
 Redis
 ------------
-![redis](images/redsi.png)
+![redis](images/redis.png)
 
 
 Zookeeper
 ------------
-![MYSQL](images/zookeeper.png)
+![zk](images/zk.png)
 
 ## 环境要求
 
@@ -51,6 +51,14 @@ mvn compile
 
 # 运行
 mvn exec:java
+```
+
+### 运行方式
+
+[项目提供可执行 Jar 包](/images/NewSQLClient-0.1.jar)：
+
+```bash
+java -jar NewSQLClient-0.1.jar
 ```
 
 ## 功能概览
