@@ -1,6 +1,42 @@
 # NewSQLClient
 
-统一中间件客户端工具，支持同时连接 **MySQL / PostgreSQL **、**Redis**、**ZooKeeper**，在同一个界面中浏览、查询和操作数据。
+基于 AI 开发的一体化中间件聚合客户端，当前已支持 MySQL、PostgreSQL、Redis、Zookeeper 等主流中间件连接，后续将持续扩展 Elasticsearch、MongoDB、MQ 等生态组件；采用统一化交互布局设计，支持浅色/深色主题切换，提升开发与运维效率。
+---
+
+# 项目特点
+
+- 支持 MySQL / PostgreSQL 数据库管理
+- 支持 Redis 可视化管理
+- 支持 Zookeeper 节点管理
+- 统一化客户端布局
+- 支持浅色 / 深色主题
+- AI 辅助开发
+- Java 桌面客户端
+- 支持跨平台运行（Windows / Linux / macOS）
+- 后续持续扩展 Elasticsearch / MongoDB / MQ 等中间件
+
+---
+
+
+## 运行截图
+Themes
+------------
+![DARK themes](images/addconnect.png)
+![LIGHT themes](images/light.png)
+
+MySQL
+------------
+![MYSQL](images/dbconnect.png)
+![MYSQL](images/mysql.png)
+
+Redis
+------------
+![redis](images/redsi.png)
+
+
+Zookeeper
+------------
+![MYSQL](images/zookeeper.png)
 
 ## 环境要求
 
